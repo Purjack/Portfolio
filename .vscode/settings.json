@@ -1,4 +1,5 @@
 {
     "nuxt.isNuxtApp": false,
-    "iis.configDir": ""
+    "iis.configDir": "",
+    "liveServer.settings.port": 5501
 }
